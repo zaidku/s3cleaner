@@ -309,10 +309,10 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Inspired by legacy S3 cleaning tools from the boto era. Modernized for enterprise use with boto3, Flask, and production-grade patterns.
 
 ---
 
-**Built with ❤️ for reliable S3 lifecycle management**
+**Built for reliable S3 lifecycle management**
